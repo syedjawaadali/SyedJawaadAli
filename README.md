@@ -249,10 +249,27 @@ Cross-platform mobile app. `Flutter` `Dart`
 <!-- ===================== TRAINING & CERTS ===================== -->
 ## 🎓 Training, Mentoring &amp; Certifications
 
-- **"Dashboards using Power BI & Excel"** — designed & delivered a structured **8-week** instructor-led program (Excel → Power Query → data modeling → DAX → interactive dashboards); every learner finished with a portfolio-ready capstone.
-- Corporate workshops on **Advanced Excel, Tableau & Power BI**; ongoing **analyst mentoring** into senior roles.
-- **Certifications:** `IBM Data Science Professional` · `Google Business Intelligence Specialization` · `Business Intelligence for Consultants` · `Prompt Engineering for Professionals`
-- **In progress:** `Microsoft PL-300` · `Microsoft Certified Trainer (MCT)` · `MOS Specialist`
+> **Power BI & Business-Analysis trainer** — I take mixed-ability learners from raw
+> data to portfolio-ready dashboards through hands-on, project-based instruction, in
+> **English & Urdu**.
+
+| Program | Where | When |
+|---|---|---|
+| **"Dashboards using Power BI & Excel"** · 8-week instructor-led | Khair ul Amal Education Center — Karachi | 2026 |
+| **Advanced Excel & Tableau** · 1-week intensive | TGD Services DMCC — Dubai | 2024 |
+| **Power BI Workshop** · 2-day, call-center analytics | Habib Bank Limited (HBL) — Karachi | 2023 |
+| **Excel, PowerPoint & Tableau** · 1-week | Data n Dashboard — Karachi | 2021 |
+| **Analyst mentorship & team capability building** | Across analytics roles — Karachi / Remote | 2019 – present |
+
+**Modules I teach** &nbsp; `Excel for Analysis` `Power BI Foundations` `Data Modeling & DAX` `Visualization & Design` `Publishing & Governance (RLS)` `Tableau` `SQL` `AI for Data Analysis` `Business Analysis`
+
+### 🎓 Education
+- **M.S. — Data Engineering & Information Management** · NED University of Engineering & Technology · 2021–2024
+- **B.S. — Economics & Finance** · NED University of Engineering & Technology · 2016–2020
+- **Final-year project:** <!-- ✎ EDIT: paste your FYP title + one-line description here --> _✎ add your FYP title & a one-line summary_
+
+### 📜 Certifications
+`IBM Data Science Professional` · `Google Business Intelligence Specialization` · `Business Intelligence for Consultants` · `Prompt Engineering for Professionals` &nbsp;·&nbsp; **In progress:** `Microsoft PL-300` · `Microsoft Certified Trainer (MCT)` · `MOS Specialist`
 
 <br/>
 
