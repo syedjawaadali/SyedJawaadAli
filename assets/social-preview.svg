@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="Syed Jawaad Ali - Business Intelligence and Data Engineering">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060A14"/><stop offset="0.55" stop-color="#0A1122"/><stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#1E90FF"/></linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#00C2A8"/></linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7C5CFF"/><stop offset="1" stop-color="#4F7DFF"/></linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#9ecbff"/></linearGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#1E90FF" stop-opacity="0.5"/><stop offset="1" stop-color="#1E90FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowT" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#00C2A8" stop-opacity="0.45"/><stop offset="1" stop-color="#00C2A8" stop-opacity="0"/></radialGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#000000" flood-opacity="0.5"/></filter>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <circle cx="160" cy="70" r="420" fill="url(#glowB)"/>
+  <circle cx="1180" cy="600" r="420" fill="url(#glowT)"/>
+
+  <g stroke="#1b2740" stroke-width="1" opacity="0.5">
+    <path d="M0 230 L1280 90"/><path d="M0 320 L1280 180"/><path d="M0 410 L1280 270"/><path d="M0 500 L1280 360"/><path d="M0 590 L1280 450"/>
+    <path d="M180 0 L180 640"/><path d="M400 0 L400 640"/><path d="M620 0 L620 640"/><path d="M840 0 L840 640"/><path d="M1060 0 L1060 640"/>
+  </g>
+
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    <text x="90" y="180" font-size="26" letter-spacing="8" fill="#38BDF8" font-weight="600">DATA · ANALYTICS · BUSINESS INTELLIGENCE</text>
+    <text x="86" y="285" font-size="88" font-weight="800" fill="url(#name)">Syed Jawaad Ali</text>
+    <text x="90" y="335" font-size="30" fill="#93a4c0" font-weight="500">BI &amp; Data Engineering  ·  Power BI &amp; Excel Trainer</text>
+
+    <!-- highlight chips -->
+    <g font-size="19" font-weight="600">
+      <g transform="translate(90,380)">
+        <rect width="200" height="46" rx="23" fill="#0f1b30" stroke="#2b4a7a"/>
+        <text x="100" y="30" fill="#cfe0ff" text-anchor="middle">Power BI · DAX</text>
+      </g>
+      <g transform="translate(304,380)">
+        <rect width="215" height="46" rx="23" fill="#0f1b30" stroke="#2b6a5a"/>
+        <text x="107" y="30" fill="#c7f5ec" text-anchor="middle">Dashboards · ETL</text>
+      </g>
+      <g transform="translate(533,380)">
+        <rect width="235" height="46" rx="23" fill="#0f1b30" stroke="#4b4a8a"/>
+        <text x="117" y="30" fill="#dcd6ff" text-anchor="middle">Python · SQL · Excel</text>
+      </g>
+    </g>
+
+    <text x="90" y="500" font-size="22" fill="#8aa0c4">Turning scattered data into clear decisions.</text>
+    <text x="90" y="560" font-size="22" font-weight="700" fill="#e6edf3">github.com/syedjawaadali</text>
+  </g>
+
+  <!-- isometric BI cards -->
+  <g transform="translate(1010,330) scale(1.5)" filter="url(#soft)">
+    <g transform="translate(70,-70) skewY(-18)">
+      <rect x="0" y="0" width="150" height="96" rx="10" fill="#0f1b30" stroke="#25406b"/>
+      <polyline points="14,74 42,54 70,62 98,32 134,20" fill="none" stroke="url(#violet)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="134" cy="20" r="4" fill="#7C5CFF"/>
+    </g>
+    <g transform="translate(0,-24) skewY(-18)">
+      <rect x="0" y="0" width="150" height="96" rx="10" fill="#122038" stroke="#2b4a7a"/>
+      <rect x="18" y="52" width="18" height="30" rx="3" fill="url(#blue)"/>
+      <rect x="48" y="38" width="18" height="44" rx="3" fill="url(#blue)"/>
+      <rect x="78" y="46" width="18" height="36" rx="3" fill="url(#teal)"/>
+      <rect x="108" y="26" width="18" height="56" rx="3" fill="url(#teal)"/>
+    </g>
+    <g transform="translate(-70,22) skewY(-18)">
+      <rect x="0" y="0" width="150" height="96" rx="10" fill="#16233d" stroke="#325089"/>
+      <text x="16" y="34" font-size="13" fill="#8aa0c4" font-family="'Segoe UI',Arial,sans-serif">Revenue</text>
+      <text x="16" y="60" font-size="24" font-weight="800" fill="#ffffff" font-family="'Segoe UI',Arial,sans-serif">$26.9M</text>
+      <text x="16" y="80" font-size="12" fill="#2DD4BF" font-family="'Segoe UI',Arial,sans-serif">▲ 23.5% YoY</text>
+      <circle cx="118" cy="52" r="22" fill="none" stroke="#24324d" stroke-width="7"/>
+      <circle cx="118" cy="52" r="22" fill="none" stroke="url(#teal)" stroke-width="7" stroke-dasharray="104 138" stroke-linecap="round" transform="rotate(-90 118 52)"/>
+    </g>
+  </g>
+</svg>
