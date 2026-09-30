@@ -266,7 +266,8 @@ Cross-platform mobile app. `Flutter` `Dart`
 ### 🎓 Education
 - **M.S. — Data Engineering & Information Management** · NED University of Engineering & Technology · 2021–2024
 - **B.S. — Economics & Finance** · NED University of Engineering & Technology · 2016–2020
-- **Final-year project:** <!-- ✎ EDIT: paste your FYP title + one-line description here --> _✎ add your FYP title & a one-line summary_
+- **Final-year project:** *Blockchain, Fintech & Digitalization in Pakistan's Emerging Market* — assessed small-business readiness for **blockchain-based business registration** through an in-person survey, with descriptive statistics & opportunity forecasting in **SPSS & Excel** to inform government policy _(2020)_.
+- **Research:** *Implementation of Blockchain in Pakistan's Banking Sector* — qualitative, interview-based **thematic analysis** across banking, government, public & specialist perspectives _(2019)_.
 
 ### 📜 Certifications
 `IBM Data Science Professional` · `Google Business Intelligence Specialization` · `Business Intelligence for Consultants` · `Prompt Engineering for Professionals` &nbsp;·&nbsp; **In progress:** `Microsoft PL-300` · `Microsoft Certified Trainer (MCT)` · `MOS Specialist`
