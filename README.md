@@ -29,7 +29,7 @@
 <br/>
 
 <!-- ===================== ABOUT ===================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About Me
+## 🧭 About Me
 
 ```yaml
 name:      Syed Jawaad Ali
@@ -54,7 +54,7 @@ and budgeting, and I ship **web & cross-platform apps** end to end.
 <br/>
 
 <!-- ===================== TECH ===================== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> Tech &amp; Tools
+## 🛠️ Tech &amp; Tools
 
 <table>
 <tr>
@@ -68,6 +68,10 @@ and budgeting, and I ship **web & cross-platform apps** end to end.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)
+![MS Office Suite](https://img.shields.io/badge/MS%20Office%20Suite-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
@@ -79,6 +83,8 @@ and budgeting, and I ship **web & cross-platform apps** end to end.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 
 </td>
 </tr>
@@ -103,6 +109,9 @@ and budgeting, and I ship **web & cross-platform apps** end to end.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=FFD02F)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 </td>
 </tr>
@@ -111,7 +120,7 @@ and budgeting, and I ship **web & cross-platform apps** end to end.
 <br/>
 
 <!-- ===================== FEATURED WORK ===================== -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> Featured Work
+## 📌 Featured Work
 
 Every project below is **real and runnable** — sample data, clean code, tests where they count,
 and a proper README with visuals.
@@ -222,34 +231,23 @@ Cross-platform mobile app. `Flutter` `Dart`
 <br/>
 
 <!-- ===================== STATS ===================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syedjawaadali&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=1E90FF&icon_color=00C2A8&text_color=9fb3c8&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=syedjawaadali&hide_border=true&background=0d1117&stroke=1E90FF&ring=00C2A8&fire=00C2A8&currStreakLabel=1E90FF&sideLabels=9fb3c8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
+  <img height="195" src="assets/stats.svg" alt="At a glance" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=syedjawaadali&hide_border=true&card_width=460&background=0d1117&stroke=1E90FF&ring=00C2A8&fire=00C2A8&currStreakLabel=1E90FF&sideLabels=9fb3c8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedjawaadali&layout=compact&hide_border=true&langs_count=8&title_color=1E90FF&text_color=9fb3c8&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedjawaadali&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</p>
-
+<p align="center"><sub>Contribution graph</sub></p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedjawaadali/syedjawaadali/output/github-contribution-grid-snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/syedjawaadali/syedjawaadali/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedjawaadali&hide_border=true&bg_color=0d1117&color=1E90FF&line=00C2A8&point=ffffff&area=true&area_color=1E90FF" />
-</p>
-
 <br/>
 
 <!-- ===================== TRAINING & CERTS ===================== -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"> Training, Mentoring &amp; Certifications
+## 🎓 Training, Mentoring &amp; Certifications
 
 - **"Dashboards using Power BI & Excel"** — designed & delivered a structured **8-week** instructor-led program (Excel → Power Query → data modeling → DAX → interactive dashboards); every learner finished with a portfolio-ready capstone.
 - Corporate workshops on **Advanced Excel, Tableau & Power BI**; ongoing **analyst mentoring** into senior roles.
