@@ -213,16 +213,6 @@ Studio site + storefront, dashboard, kanban & 3D demos. `Canvas` `JS`
 
 </td>
 </tr>
-<tr>
-<td width="33%" valign="top">
-
-**[Circles-app](https://github.com/syedjawaadali/Circles-app)**<br/>
-Cross-platform mobile app. `Flutter` `Dart`
-
-</td>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
-</tr>
 </table>
 
 > 🧰 **More on the way** — dashboards, Excel models, PowerPoint frameworks and
